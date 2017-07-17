@@ -64,6 +64,8 @@ for the Jupyter Notebook.
       After installing the `machine-learning basic` bundle, you can find the
       example code under :file:`/usr/share/docs/MNIST_example.ipynb`.
 
+#. Before continuing, remove the license comments from the example code.
+
 
 The example code downloads and decompresses the MNIST data directly into the
 :file:`./mnist` directory. Alternatively, download the four files directly
